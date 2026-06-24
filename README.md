@@ -12,4 +12,4 @@ Production-ready backend implementing:
 - Redis Conversation Memory
 - Custom RAG Pipeline
 - LLM-powered Interview Booking
-- Dockerized Deployment
+
